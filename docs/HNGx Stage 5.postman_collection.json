@@ -224,7 +224,7 @@
 		},
 		{
 			"key": "baseUrl",
-			"value": "https://hngx-be-5.onrender.com/",
+			"value": "https://hngx-be-5.onrender.com",
 			"type": "string"
 		}
 	]
