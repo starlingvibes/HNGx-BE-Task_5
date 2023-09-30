@@ -1,12 +1,5 @@
 import express, { Request, Response, NextFunction } from 'express';
 import storageRouter from '../storage.route';
-import request from 'supertest';
-import {
-  upload,
-  download,
-  markUnsafeAndDelete,
-  createFolder,
-} from '../../controllers/storage.controller';
 
 jest.mock('../../controllers/auth.controller', () => ({
   upload: jest.fn(),
