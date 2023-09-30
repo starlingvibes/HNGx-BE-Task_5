@@ -1,5 +1,5 @@
 {
-  "name": "cloud-bs",
+  "name": "hngx_5",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/starlingvibes/cloud-bs.git"
+    "url": "https://github.com/starlingvibes/hngx-be-task_5.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/starlingvibes/cloud-bs/issues"
+    "url": "https://github.com/starlingvibes/hngx-be-task_5/issues"
   },
-  "homepage": "https://github.com/starlingvibes/cloud-bs#readme",
+  "homepage": "https://github.com/starlingvibes/hngx-be-task_5#readme",
   "dependencies": {
     "@google-cloud/storage": "^7.0.1",
     "axios": "^1.5.1",
